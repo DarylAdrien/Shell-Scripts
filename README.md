@@ -1,7 +1,10 @@
-# Cloud and Git Automation Scripts
+# Shell-Scripts
 
 ## Overview
-This repository contains two powerful shell scripts designed to simplify cloud and GitHub automation tasks:
+This repository contains essential shell scripting commands and examples for beginners and intermediate learners. It is especially useful for **interview preparation**, **daily DevOps tasks**, and **Linux command line practice**.
+
+Some of the Important Scripts are as follows:
+
 1. **AWS Usage Report**: A script to generate reports on AWS usage.
    
 2. **GitHub API Automation**: A script which performs to get the list of collaborators of a particular Repository  using the GitHub API.
@@ -68,9 +71,9 @@ GitHub personal access token with necessary permissions.
 ## Setup
 ### Clone the repository:
 
-git clone https://github.com/darylAdrien/Cloud-and-Git-Automation-Scripts.git
+git clone https://github.com/darylAdrien/Shell-Scripts.git
 
-cd Cloud-and-Git-Automation-Scripts
+cd Shell-Scripts
 
 ### Make the scripts executable:
 
